@@ -1,0 +1,95 @@
+10069902, Abraao Batista Rodrigues, 26.00, 31.02, 57.02 / 10017336, Alan Bastos Gil, 22.00, 38.64,
+60.64 / 10102091, Alberico Freire de Mendonca Junior, 22.00, 32.54, 54.54 / 10007959, Alessandro
+Avelino Braga, 20.00, 37.12, 57.12 / 10057364, Alex Pantoja Carneiro, 20.50, 35.59, 56.09 / 10001606,
+Alexandre Cesar Falcao Pereira, 18.00, 34.07, 52.07 / 10089503, Alysson Freitas Lopes, 17.50, 34.07,
+51.57 / 10059151, Ana Paula Magalhaes de Brito, 26.50, 27.97, 54.47 / 10047795, Anderson Alves de
+Carvalho Aguiar, 16.00, 43.22, 59.22 / 10081624, Anderson da Rocha Couto Cruz, 23.50, 29.49, 52.99 /
+10079001, Anderson da Silva Soares, 16.00, 34.58, 50.58 / 10001148, Anderson Nogueira Silverio, 24.00,
+43.22, 67.22 / 10077160, Andre Ricardo Melo Araujo, 14.50, 40.68, 55.18 / 10055348, Andreia Maria
+Castro de Couto, 20.50, 30.00, 50.50 / 10089247, Andrey Angelo Martins da Silveira, 24.00, 32.03, 56.03
+/ 10103734, Andrey Carlos Saraiva, 23.50, 46.27, 69.77 / 10084377, Angelo Rafael Peres Pinto, 21.00,
+32.54, 53.54 / 10076450, Antoniel da Silva Rego, 23.50, 50.85, 74.35 / 10075162, Antonio Alberto de
+Souza Barbosa, 22.00, 35.59, 57.59 / 10091053, Antonio da Costa Orlando Filho, 20.50, 40.17, 60.67 /
+10093176, Antonio Jose Barbosa Fonseca, 19.00, 35.59, 54.59 / 10091754, Antonio Vinicius Cabral
+Anselmo, 25.00, 32.54, 57.54 / 10103704, Arnaldo Sales de Lima Filho, 27.50, 32.03, 59.53 / 10065414,
+Artur Marques Magalhaes, 26.50, 37.12, 63.62 / 10027333, Benivaldo Honorio da Silva Junior, 24.00,
+29.49, 53.49 / 10011601, Bruna Pires de Azevedo, 16.00, 34.58, 50.58 / 10083179, Bruno Matthaus Maia
+Souto Orlando, 28.00, 29.49, 57.49 / 10069906, Bruno Ramos de Lemos Leandro, 13.00, 41.69, 54.69 /
+10077273, Bruno Robson Calixto Torres, 22.00, 31.02, 53.02 / 10010039, Bryan Santos Ramos, 25.00,
+29.49, 54.49 / 10049891, Caio Flavio Souza de Sena, 19.00, 32.03, 51.03 / 10086948, Camila Funes
+Carneiro, 31.00, 34.07, 65.07 / 10054282, Camilo Paiva Matos Pimentel, 28.00, 47.80, 75.80 / 10035897,
+Carlos Antonio Silva da Silva, 22.00, 34.07, 56.07 / 10079263, Carlos Eduardo Candido Maia, 20.50,
+34.07, 54.57 / 10102489, Carlos Eduardo Tapudima de Oliveira, 23.50, 35.59, 59.09 / 10004459, Carlos
+Pereira da Silva, 23.50, 38.64, 62.14 / 10000351, Charlene Souza de Queiroz, 28.00, 26.44, 54.44 /
+10048729, Charlles Macedo de Santana, 25.50, 35.59, 61.09 / 10088784, Clemilton Vasconcelos Pereira,
+25.50, 35.59, 61.09 / 10054098, Corintho Fernandes de Lima Neto, 20.00, 34.07, 54.07 / 10022532,
+Cristian Filipe Silva de Oliveira, 19.00, 32.54, 51.54 / 10026864, Daniela Ferreira Feitosa, 19.00, 35.59,
+54.59 / 10028724, David Emanuel Serrao Lagoa, 22.00, 44.75, 66.75 / 10100910, Denilson de Albuquerque Carvalho, 17.50, 39.15, 56.65 / 10096061, Deyvison Thiago Gomes de Moraes, 17.50,
+34.07, 51.57 / 10085192, Diego Augusto de Abreu Furtado, 22.00, 32.54, 54.54 / 10002244, Diego
+Heleno de Assis Pires Melo, 20.50, 37.12, 57.62 / 10013164, Dimas Azevedo de Oliveira, 21.00, 36.10,
+57.10 / 10090930, Diovane Monteiro de Sousa, 23.50, 31.02, 54.52 / 10067728, Edimar Dantas Nobrega,
+25.00, 43.22, 68.22 / 10092994, Edson Soares Borges, 25.00, 31.02, 56.02 / 10044746, Eduardo Amorim
+de Araujo, 25.00, 27.97, 52.97 / 10091748, Eduardo Lima Costa, 16.50, 34.07, 50.57 / 10027123,
+Eduardo Nicolas Bitencourt Neves, 23.50, 35.59, 59.09 / 10059543, Emanuelle Elena da Silva Gomes,
+16.50, 34.58, 51.08 / 10076118, Erich Augusto Ribeiro Rodrigues, 25.00, 34.07, 59.07 / 10051719, Erick
+Araujo Bolorini, 19.00, 37.12, 56.12 / 10083412, Erivaldo Ney Ferreira Correa Junior, 16.50, 39.15, 55.65
+/ 10009426, Evandro Mafra da Silva, 14.50, 40.17, 54.67 / 10059843, Ewerton Almeida Silva, 30.00,
+41.69, 71.69 / 10021157, Ewerton Rodrigo Nunes Petillo, 22.00, 32.54, 54.54 / 10063507, Fabricia
+Moreira Galibi, 20.50, 43.22, 63.72 / 10068591, Fagnum da Silva Araujo, 23.50, 30.00, 53.50 / 10025675,
+Felipe da Silva Moura, 22.50, 31.53, 54.03 / 10087717, Fernando Araujo Gurgel, 17.50, 33.05, 50.55 /
+10087420, Fhelipp da Rocha Sales, 18.00, 33.05, 51.05 / 10023116, Floro Lima Reis Junior, 18.00, 33.56,
+51.56 / 10053274, Geovani Luiz Cella, 19.00, 36.61, 55.61 / 10050708, Giovania Lira Bilio, 19.00, 33.05,
+52.05 / 10069422, Giovanny Lima da Silva, 20.50, 35.59, 56.09 / 10081287, Gisele Gomes de Souza,
+20.50, 31.02, 51.52 / 10097681, Giuliano Shintarow Takeda, 23.50, 43.22, 66.72 / 10081255, Grenny
+Ycow de Oliveira Souza, 25.00, 40.17, 65.17 / 10054399, Guilherme Cauduro, 23.50, 41.69, 65.19 /
+10084508, Harold Maia Macambira, 13.50, 39.66, 53.16 / 10016005, Henrique Souza da Silva, 25.00,
+34.07, 59.07 / 10083116, Heron Trindade Fonseca, 25.00, 29.49, 54.49 / 10022918, Hugo Vinicius Vaz
+Braga, 25.00, 37.12, 62.12 / 10000380, Humberto Silva Barros, 22.00, 32.54, 54.54 / 10040605, Ian
+Gustavo Alves Pessoa Silva, 25.00, 29.49, 54.49 / 10092255, Iauata Firmo da Silva, 20.00, 34.07, 54.07 /
+10074914, Icaro Fabiano da Silva Costa, 22.50, 35.59, 58.09 / 10022528, Ithalo Silva Vasconcelos, 21.50,
+37.12, 58.62 / 10091266, Jefferson Soares Gomes, 17.00, 34.58, 51.58 / 10083180, Jeison Pereira de
+Oliveira, 22.00, 37.12, 59.12 / 10043324, Jhone Gringo Oliveira, 23.50, 35.59, 59.09 / 10054571, Joao
+Felipe de Andrade Reis, 19.00, 34.07, 53.07 / 10095773, Jose Alberto Pacifico da Silva Filho, 31.00,
+35.59, 66.59 / 10080657, Jose Lucio Flavio de Sousa, 23.50, 40.68, 64.18 / 10052040, Jose Ricardo
+Barbosa Moreira, 19.00, 41.69, 60.69 / 10088129, Jose Ricardo Ferreira Nobre Filho, 26.50, 35.59, 62.09
+/ 10081158, Josival Alecrim da Silva, 20.50, 31.02, 51.52 / 10044064, Josivaldo Martins Silva, 22.00,
+32.54, 54.54 / 10060350, Kerisson Falcao da Cunha, 26.00, 46.27, 72.27 / 10085509, Lady Daiana de
+Oliveira Maia, 25.00, 36.61, 61.61 / 10012187, Leanderson da Silva Santos, 25.00, 37.12, 62.12 /
+10090566, Leo Ribeiro e Silva Santos, 22.00, 35.59, 57.59 / 10062150, Leticia Balbi Silva, 25.50, 32.54,
+58.04 / 10079369, Lucas do Carmo Pedroso, 30.00, 20.34, 50.34 / 10040282, Lucas dos Santos Marques,
+20.50, 31.02, 51.52 / 10075736, Lucas Henrique Batista Medeiros, 28.00, 38.64, 66.64 / 10044636, Lucas
+Silvestre Livero, 23.50, 35.59, 59.09 / 10028097, Ludenberg Marques Brito Reis, 26.00, 31.02, 57.02 /
+10085794, Luis Carlos de Miranda Santos Junior, 22.00, 41.69, 63.69 / 10026168, Luiz Eduardo Santos de
+Araujo, 21.00, 38.64, 59.64 / 10046181, Maciel Peres Serafim, 22.00, 37.12, 59.12 / 10073832, Magnoluz
+Sancelmo de Menezes da Silva, 21.50, 45.25, 66.75 / 10066967, Maisa Vidal Teixeira, 27.00, 45.25, 72.25
+/ 10008544, Maison Marcel Madri Galvao dos Santos Souza, 19.00, 37.12, 56.12 / 10085328, Manoel de
+Souza Silva Lima, 24.00, 41.19, 65.19 / 10055416, Manoel Leonardo Metelis Florindo, 17.50, 35.59,
+53.09 / 10067863, Marcelo Canevello Ferreira, 25.00, 46.27, 71.27 / 10063420, Marcelo Santos da
+Costa, 23.50, 38.64, 62.14 / 10084046, Marcilane de Aguiar Freitas, 23.50, 40.17, 63.67 / 10014639,
+Marco Antonio de Oliveira Leite, 20.50, 32.54, 53.04 / 10022316, Marcos Andre Araujo Costa, 22.50,
+31.02, 53.52 / 10039572, Marcos Teixeira de Oliveira, 28.00, 33.56, 61.56 / 10067034, Maria Regina
+Araujo Souza, 23.50, 27.97, 51.47 / 10073170, Marta de Oliveira Barreiros, 21.00, 30.00, 51.00 /
+10100903, Matheus Lourenco Monteiro, 26.50, 29.49, 55.99 / 10061915, Michael Trindade da Silva,
+22.00, 29.49, 51.49 / 10017334, Michelle Nunes de Oliveira, 20.50, 31.02, 51.52 / 10094463, Mikael
+Fonseca Pinto, 22.00, 37.12, 59.12 / 10006462, Mirna Nayra Goncalves Monte Verde de Carvalho, 16.00,
+40.17, 56.17 / 10063721, Myrian Rodrigues da Silva, 19.00, 34.07, 53.07 / 10058938, Natercia Ponte Nogueira Fernandes, 23.50, 29.49, 52.99 / 10063792, Patricia Correia Saraiva, 31.00, 35.59, 66.59 /
+10072858, Paula Andrea Morelli Fonseca, 20.50, 36.61, 57.11 / 10043931, Paulo Bruno Batista de Sena,
+17.00, 33.56, 50.56 / 10044796, Paulo Marcello Peloso de Sousa, 21.50, 36.10, 57.60 / 10056002, Pedro
+Martine, 19.50, 34.07, 53.57 / 10047610, Rafael Rocha Ferreira, 20.50, 34.07, 54.57 / 10022027, Rafaela
+de Azevedo Lima, 25.00, 26.44, 51.44 / 10074633, Ramon Marlon Silva Gomes, 28.00, 39.15, 67.15 /
+10031753, Ranom Eyder Oliveira Vale, 23.50, 29.49, 52.99 / 10079843, Rawlinson da Silva Goncalves,
+19.50, 34.07, 53.57 / 10002930, Renato Mauro Solart Queiroz, 19.00, 35.59, 54.59 / 10000067, Rhedson
+Francisco Fernandes Esashika, 22.00, 29.49, 51.49 / 10102172, Richard Joanathan Holz Ditbenner, 29.50,
+37.12, 66.62 / 10054489, Rodrigo Gemaque de Almeida, 23.00, 37.63, 60.63 / 10090583, Rodrigo Gomes
+de Souza, 20.50, 32.54, 53.04 / 10002712, Rodrigo Nascimento Ferreira, 19.00, 41.69, 60.69 / 10062541,
+Ronei Macedo Gualberto, 28.00, 38.64, 66.64 / 10002357, Rubem N da Rocha, 17.50, 35.59, 53.09 /
+10017750, Rudney Lima Auzier, 17.50, 34.07, 51.57 / 10032785, Sergio Cesar Lira Junior, 22.00, 29.49,
+51.49 / 10057760, Sharlene Alissa da Silva Costa, 29.50, 46.27, 75.77 / 10067725, Tatianne Silva
+Nobrega, 25.00, 32.54, 57.54 / 10092986, Thais Elaizza da Rocha Colares, 22.00, 37.12, 59.12 /
+10064216, Thais Maquine de Albuquerque, 25.00, 29.49, 54.49 / 10090524, Thiago Marques Rocha,
+19.00, 32.54, 51.54 / 10049763, Thiago Pereira dos Santos, 20.50, 34.07, 54.57 / 10059306, Thiago Viana
+Fernandes, 26.00, 35.59, 61.59 / 10047209, Tilza Cristina dos Santos Costa, 28.00, 35.59, 63.59 /
+10088445, Tonny Franck Osaki da Paz, 25.00, 35.59, 60.59 / 10078683, Vicente Auri de Lima Tavares,
+25.00, 38.64, 63.64 / 10066948, William Almeida Robert, 29.50, 38.64, 68.14 / 10084308, Willyan Dyeno
+Silva de Oliveira dos Santos, 25.00, 33.56, 58.56 / 10052683, Wylkson Machado Barbosa, 17.50, 38.64,
+56.14
